@@ -16,4 +16,5 @@ if (hourOfDay === 0 && minuteOfDay == 0) {
 	balance = startingAfterTax - transport - food - rent;
 }
 	
+
 console.log('R', balance.toFixed(2))

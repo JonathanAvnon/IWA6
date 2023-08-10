@@ -8,4 +8,5 @@ const primaryValid = Boolean (parseInt(primaryPhone))
 const secondaryValid = Boolean (parseInt(secondaryPhone))
 
 console.log('Primary phone is valid numerical string:', primaryValid)
+
 console.log('Secondary phone is valid numerical string:', secondaryValid )
